@@ -1,2 +1,2 @@
 # Lebovskiy.github.io
-portfolio
+Portfolio
